@@ -5,7 +5,6 @@ Add books to the library
 /Borrow books
 /Return books and update availability
 /List available books and active borrowings
-///////////////////////////////
 
 Technologies Used
 

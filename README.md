@@ -4,7 +4,7 @@ Add books to the library
 /Register users
 /Borrow books
 /Return books and update availability
-/List available books and active borrowings
+/List available books and active reservations
 
 Technologies Used
 

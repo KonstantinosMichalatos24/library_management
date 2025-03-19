@@ -1,6 +1,5 @@
 Library management project based on a uni project slightly changed in Python with MySQL for data storage. Users can add books, register in the library, borrow and return books.
 
-Features
 Add books to the library
 Register users
 Borrow books
